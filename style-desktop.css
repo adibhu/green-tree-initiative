@@ -1,0 +1,22 @@
+@media(min-width:998px){
+    .one{
+        display: grid;
+        grid-column: 1fr 1fr;
+        background-image: url("annie-spratt-135307-unsplash-desktop.png") ;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 1;
+        
+    }
+    .wrapper{
+        display: flex;
+        gap: 10rem;
+    }
+    .nav-items{
+        display: flex;
+        gap: 10rem;
+    }
+    #rect-1{
+        grid-column: 1/2;
+    }
+}
