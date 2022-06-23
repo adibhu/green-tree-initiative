@@ -59,6 +59,16 @@
         background-image: url("Did you know background-tablet.png");
         background-repeat: no-repeat;
         background-size: cover;
+        position: relative;
+    }
+    .screen-four-rect-1{
+        position: relative;
+    }
+    .did-you-know{
+        position: absolute;
+        top: -7%;
+        left: 37%;
+
     }
     .hunger-issue{
         width: 164%;

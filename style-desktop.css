@@ -1,4 +1,8 @@
 @media(min-width:998px){
+    .donate-today-button{
+        top: 73%;
+        left: 3%;
+    }
     .one{
         display: grid;
         grid-column: 1fr 1fr;
@@ -7,6 +11,14 @@
         background-size: cover;
         opacity: 1;
         
+    }
+    .take-action{
+        top: 143%;
+        left: 38%;
+    }
+    .stories{
+        top: 5%;
+        left: 45%;
     }
     .wrapper{
         display: flex;
